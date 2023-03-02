@@ -1,0 +1,11 @@
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\bin\Debug\prakt10.exe.config
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\bin\Debug\prakt10.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\bin\Debug\prakt10.pdb
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.csproj.AssemblyReference.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.Form1.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.Properties.Resources.resources
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.csproj.GenerateResource.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.csproj.CoreCompileInputs.cache
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.exe
+C:\Users\325L-11\Desktop\шумкова пр-21\prakt10\obj\Debug\prakt10.pdb
